@@ -6,17 +6,9 @@
 
 ## Resources
 
-1. [Intro to Programming: Princeton](https://introcs.cs.princeton.edu/java/home/)
-2. [Java on your own: Geeks for Geeks](https://www.geeksforgeeks.org/learn-java-on-your-own-in-20-days-free/)
-3. [Java MOOC - University of Helsinki](https://java-programming.mooc.fi/)
+1. [Java MOOC - University of Helsinki](https://java-programming.mooc.fi/)
 
 
 ## Structure
 
-- Fundamentals
-	- [Data Types](./Data%20Types/)
-	- [Conditionals and Loops](./Conditionals%20and%20Loops/)
-	- [Strings](./Strings/)
-	- [Arrays](./Arrays/)
-	- ⏳ In Progress
-
+- WIP
