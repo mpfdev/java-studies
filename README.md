@@ -7,8 +7,10 @@
 ## Resources
 
 1. [Java MOOC - University of Helsinki](https://java-programming.mooc.fi/)
+2. 
 
 
 ## Structure
 
+- WIP
 - WIP
