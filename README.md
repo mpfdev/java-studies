@@ -11,10 +11,12 @@
 ## Structure
 
 🇬🇧 This folders are in constant updates.
+
 🇧🇷 Estas pastas abaixo encontram-se em constante atualização.
 
 ### Fundamentals
 🇬🇧 WIP
+
 🇧🇷 Nessa pasta se encontram atividades considerados por mim conceitos básicos da linguagem que envolvem o uso de loops, condicionais e variáveis.
 
 - [Fundamentos](./Fundamentals)
@@ -26,7 +28,8 @@ WIP
 ### Data Structure
 
 🇬🇧 WIP
+
 🇧🇷 Nessa pasta se encontram atividades considerados por mim conceitos básicos da linguagem que envolvem o estudo de estrutura de dados.
 
-- [Arrays e ArrayList](url)
-- [Stacks](url)
+- [Arrays e ArrayList](https://github.com/mpfdev/Arrays)
+- [Stacks](https://github.com/mpfdev/Stack)
