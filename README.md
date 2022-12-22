@@ -1,16 +1,32 @@
 # Java Studies
 
-🇬🇧 Repository to gather resources, and to be a study guide to learn the fundamentals of the Java Programming Language.
+🇬🇧 WIP
 
-🇧🇷 Repositório com o intuito de agrupar recursos, e de ser um guia para o estudo dos conceitos fundamentais da linguagem de programação Java.
+🇧🇷 Este repositorio se encontra uma coletânea de atividades/exercicio/desafios feitos para a prática do estudo da linguagem Java. Desta maneira também atua como um sitemap para outros repositórios pessoais que tem como objetivo agregar no estudo desta linguagem.
 
 ## Resources
 
-1. [Java MOOC - University of Helsinki](https://java-programming.mooc.fi/)
-2. 
 
 
 ## Structure
 
-- WIP
-- WIP
+🇬🇧 This folders are in constant updates.
+🇧🇷 Estas pastas abaixo encontram-se em constante atualização.
+
+### Fundamentals
+🇬🇧 WIP
+🇧🇷 Nessa pasta se encontram atividades considerados por mim conceitos básicos da linguagem que envolvem o uso de loops, condicionais e variáveis.
+
+- [Fundamentos](./Fundamentals)
+
+### Object-Oriented Programming
+
+WIP
+
+### Data Structure
+
+🇬🇧 WIP
+🇧🇷 Nessa pasta se encontram atividades considerados por mim conceitos básicos da linguagem que envolvem o estudo de estrutura de dados.
+
+- [Arrays e ArrayList](url)
+- [Stacks](url)
